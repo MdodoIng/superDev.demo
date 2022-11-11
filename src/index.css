@@ -1679,5 +1679,12 @@ button {
   .spFeatures_contentBox {
     width: 100%;
   }
+  .fx_first_cols {
+    gap: 12px;
+  }
+  .ftContentBox {
+    gap: 12px;
+  
+  }
 
 }
